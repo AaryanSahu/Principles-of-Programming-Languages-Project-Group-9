@@ -46,5 +46,5 @@ This comprehensive approach covers both the technical implementation details and
 ## Group-Members
 - **Aryan Sahu :** 2021A7PS2832G
 - **Anuj Nethwewala:** 2021A7PS2716G
-- **Lord Imaad Momin:** 2021A7PS2066G
+- **Imaad Momin:** 2021A7PS2066G
 - **Subhradip Maity:** 2021A7PS2983G
