@@ -51,8 +51,8 @@ This comprehensive approach covers both the technical implementation details and
 
 
   ## File Organization:
-- [Dataset](PoPL/Dataset/california_housing_data.csv).
-- [code-external](PoPL/code-external/Test_code.ipynb).
-- [code-orig](PoPL/code-orig/BayesianRegression2.ipynb).
-- [result](PoPL/result).
+- [Dataset](PoPL/Dataset/california_housing_data.csv)
+- [code-external](PoPL/code-external/Test_code.ipynb)
+- [code-orig](PoPL/code-orig/BayesianRegression2.ipynb)
+- [result](PoPL/result)
 
