@@ -43,7 +43,7 @@
 
 This comprehensive approach covers both the technical implementation details and potential areas for further exploration, aligning with principles of Probabilistic Programming and Machine Learning.
 
-##Group-Members
+## Group-Members
 - **Aryan Sahu :** 2021A7PS2832G
 - **Anuj Nethwewala:** 2021A7PS2716G
 - **Lord Imaad Momin:** 2021A7PS2066G
