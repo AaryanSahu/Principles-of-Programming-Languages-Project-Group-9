@@ -59,7 +59,6 @@
 - **Deployment:** Consider deployment strategies for the model, possibly as a web service or API.
 - **Explanability:** Integrate tools or techniques for explaining model predictions to end-users.
 
-This comprehensive approach covers both the technical implementation details and potential areas for further exploration, aligning with principles of Probabilistic Programming and Machine Learning.
 
 ## Group-Members
 - **Aryan Sahu :** 2021A7PS2832G
