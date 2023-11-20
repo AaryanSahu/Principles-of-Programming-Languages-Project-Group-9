@@ -17,14 +17,33 @@
 
 ## POPL Aspects
 
-1. **Probabilistic Programming (Pyro):** The use of Pyro for probabilistic modeling introduces the concept of probabilistic programming, allowing the definition of Bayesian models with uncertainty.
-2. **Plate Notation:** The `pyro.plate` construct is used for vectorized computation, improving efficiency in the probabilistic model.
-3. **Bayesian Linear Regression:** The model includes priors for slope, intercept, and sigma, embodying Bayesian concepts in linear regression.
-4. **Markov Chain Monte Carlo (MCMC):** NUTS (No-U-Turn Sampler) is utilized for MCMC inference, capturing the posterior distribution of parameters.
-5. **Parameter Store Management:** The `pyro.clear_param_store()` ensures a clean slate for each run, managing the parameter store in a Bayesian context.
-6. **Posterior Analysis:** Visualization of posterior distributions provides insights into uncertainty and parameter estimates.
-7. **Comparison with Traditional Regression:** The script includes a section comparing Bayesian regression results with a traditional linear regression using scikit-learn.
+## Bayesian Regression with Pyro for House Price Prediction
 
+### Overview
+
+1. **Limitations of Simple Linear Regression:**
+   - Simple linear regression provides only point estimates for coefficients.
+   - Bayesian regression is crucial for generating coefficient distributions and calculating uncertainty.
+
+2. **Ease of Implementation with Pyro:**
+   - Implementing Bayesian Regression in Python can be challenging.
+   - Pyro, with its inbuilt functionalities, streamlines the process, making it more accessible.
+
+3. **Utilizing Pyro for Bayesian Models:**
+   - Pyro is equipped with features that simplify the implementation of Bayesian models.
+   - We chose Pyro as our framework for mapping and implementing Bayesian models.
+
+4. **Flexibility in Sampling Algorithms:**
+   - Pyro facilitates the implementation of complex sampling algorithms like MCMC and NUTS.
+   - This allows for more robust and accurate probabilistic modeling.
+
+5. **Addressing Dataset Assumptions:**
+   - Linear regression assumes a normally distributed dataset.
+   - Pyro allows us to assume priors of distributions of our choice, providing flexibility for different datasets.
+
+6. **Incorporating Prior Knowledge:**
+   - Probabilistic programming with Pyro allows us to include more prior knowledge about our problem.
+   - This flexibility surpasses traditional linear regression, contributing to more informed predictions.
 ## Results and Tests
 
 - **Dataset:** California housing dataset is used, split into training and testing sets.
