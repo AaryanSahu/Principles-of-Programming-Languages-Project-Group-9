@@ -17,8 +17,6 @@
 
 ## POPL Aspects
 
-## Bayesian Regression with Pyro for House Price Prediction
-
 ### Overview
 
 1. **Limitations of Simple Linear Regression:**
