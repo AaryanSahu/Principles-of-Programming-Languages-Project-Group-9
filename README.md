@@ -1,6 +1,6 @@
 # Principles-of-Programming-Languages-Group-Project
 
-# Bayesian House Price Prediction with Pyro
+# Bayesian Housing Price Prediction using Pyro: A Sophisticated Approach to Robust Predictive Modeling
 
 ## Problem Statement
 
