@@ -31,7 +31,7 @@
    - We chose Pyro as our framework for mapping and implementing Bayesian models.
 
 4. **Flexibility in Sampling Algorithms:**
-   - Pyro facilitates the implementation of complex sampling algorithms like MCMC and NUTS.
+   - Pyro facilitates the implementation of complex sampling algorithms like MCMC (Markov Chain Monte Carlo) and NUTS (No U-turn Sampling).
    - This allows for more robust and accurate probabilistic modeling.
 
 5. **Addressing Dataset Assumptions:**
