@@ -42,7 +42,7 @@
 6. **Incorporating Prior Knowledge:**
    - Probabilistic programming with Pyro allows us to include more prior knowledge about our problem.
    - This flexibility surpasses traditional linear regression, contributing to more informed predictions.
-   - 
+     
 ## Results and Tests
 
 - **Dataset:** California housing dataset is used, split into training and testing sets.
@@ -78,7 +78,7 @@ This comprehensive approach covers both the technical implementation details and
 
 1. **Open the Python Notebook:**
    - Open the provided Python Notebook on any Python environment, ideally Google Colab.
-   - For Bayesian Regression model,Run the [Bayesian](PoPL/code-orig/BayesianRegression.ipynb).
+   - For the Bayesian Regression model,Run the [Bayesian](PoPL/code-orig/BayesianRegression.ipynb).
    - For the Gamma Model,Run the [Gamma](PoPL/code-orig/BayesianRegression(with_Gamma).ipynb).
 
 2. **Load the Dataset:**
