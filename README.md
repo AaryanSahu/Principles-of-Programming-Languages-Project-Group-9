@@ -56,3 +56,8 @@ This comprehensive approach covers both the technical implementation details and
 - [code-orig](PoPL/code-orig/BayesianRegression2.ipynb)
 - [result](PoPL/result)
 
+  ## How to Run
+  -Open the Python Notebook on any python environment.(**Ideally Google Colab**).
+  -Load the Dataset from [Dataset](PoPL/Dataset/california_housing_data.csv).
+  -Test the code and generate graphs.
+
