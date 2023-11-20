@@ -45,6 +45,7 @@
      
 ## Results and Tests
 
+- **Result(R^2 value):** At same R^2 value (0.49) we were able to implement all three models - Bayesian Regression (with Gamma and Normal both) and linear regression and we were able to generate relevant distributions through bayesian regression in pyro.
 - **Dataset:** California housing dataset is used, split into training and testing sets.
 - **Benchmark:** R-squared is calculated to assess model performance. Visualizations include histograms of posterior distributions and scatter plots comparing predicted and true house prices.
 - **Validation:** The comparison with traditional linear regression acts as a validation point, demonstrating the benefits of the Bayesian approach in capturing uncertainty.
