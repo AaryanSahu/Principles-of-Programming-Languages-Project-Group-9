@@ -73,6 +73,4 @@ This comprehensive approach covers both the technical implementation details and
 
 Note: Make sure to install any required dependencies mentioned in the notebook before running the code.
 
-Feel free to reach out if you encounter any issues or have questions.
-
 
