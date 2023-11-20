@@ -42,6 +42,7 @@
 6. **Incorporating Prior Knowledge:**
    - Probabilistic programming with Pyro allows us to include more prior knowledge about our problem.
    - This flexibility surpasses traditional linear regression, contributing to more informed predictions.
+   - 
 ## Results and Tests
 
 - **Dataset:** California housing dataset is used, split into training and testing sets.
