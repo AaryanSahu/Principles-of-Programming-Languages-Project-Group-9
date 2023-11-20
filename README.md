@@ -13,7 +13,7 @@
 - The architecture involves data preprocessing using pandas, PyTorch for tensor operations, Pyro for probabilistic modeling, and matplotlib/seaborn for result visualization.
 - No explicit client-server architecture; it's a standalone script.
 - Testing is conducted locally, assessing model performance using R-squared and visualization.
-- No database is involved; the dataset is fetched using scikit-learn.We have also provided the same dataset as a csv file in [Dataset](PoPL/Dataset/california_housing_data.csv).
+- No database is involved; the dataset is fetched using scikit-learn.(We have also provided the same dataset as a csv file in [Dataset](PoPL/Dataset/california_housing_data.csv)).
 
 ## POPL Aspects
 
