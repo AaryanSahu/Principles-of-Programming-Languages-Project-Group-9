@@ -87,7 +87,7 @@ This comprehensive approach covers both the technical implementation details and
 
 3. **Test the Code and Generate Graphs:**
    - Run the code cells in the notebook to execute the provided code.
-   - Explore the generated graphs and results.
+   - Explore the generated graphs and results [result](PoPL/result).
 
 Note: Make sure to install any required dependencies mentioned in the notebook before running the code.
 
