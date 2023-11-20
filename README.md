@@ -53,13 +53,15 @@ This comprehensive approach covers both the technical implementation details and
   ## File Organization:
 - [Dataset](PoPL/Dataset/california_housing_data.csv)
 - [code-external](PoPL/code-external/Test_code.ipynb)
-- [code-orig](PoPL/code-orig/BayesianRegression2.ipynb)
+- [code-orig](PoPL/code-orig/BayesianRegression.ipynb)
 - [result](PoPL/result)
 
 ## How to Run
 
 1. **Open the Python Notebook:**
    - Open the provided Python Notebook on any Python environment, ideally Google Colab.
+   - For Bayesian Regression model,Run the [Bayesian](PoPL/code-orig/BayesianRegression.ipynb).
+   - For the Gamma Model,Run the [Gamma](PoPL/code-orig/BayesianRegression(with_Gamma).ipynb).
 
 2. **Load the Dataset:**
    - Download the dataset from [Dataset](PoPL/Dataset/california_housing_data.csv).
