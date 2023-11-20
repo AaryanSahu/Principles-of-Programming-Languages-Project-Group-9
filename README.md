@@ -88,7 +88,7 @@
    - Run the code cells in the notebook to execute the provided code.
    - Explore the generated graphs and results [result](PoPL/result).
 
-Note: Make sure to install any required dependencies mentioned in the notebook before running the code.
+Please Note: Make sure to install any required dependencies mentioned in the notebook before running the code.
 
 
 
